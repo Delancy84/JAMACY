@@ -1,0 +1,73 @@
+body
+{
+	background: url("../Img/lo mas visto16.jpg") ;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #FFFFFF;
+	margin: 0%;
+}
+.espacio
+{
+	position: absolute;
+	width: 60%;
+	height: 40%;
+	margin-left: 20%;
+	margin-top: 10%;
+	background-color: transparent;
+}
+#incorrecto
+{
+	position: absolute;
+	font-family: cambria;
+	font-size: 50px;
+	color: white;
+	margin-left: 20%;
+	margin-top: 5%;
+	opacity: 0.8;
+	text-shadow: 2px 2px 5px #black;
+}
+#inco
+{
+	position: absolute;
+	font-family: cambria;
+	font-size: 20px;
+	text-align: center;
+	color: black;
+	margin-left: 13%;
+	margin-top: 11%;
+	margin-right: 15%;
+	background-color: white;
+	opacity: 0.8;
+	border-radius: 10px;
+}
+#botones
+{
+	position: absolute;
+	height: 8%;
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 42%;
+	background-color: transparent;
+}
+#boton1
+{
+	position: absolute;
+	margin-top: -20%;
+	margin-left: 37%;
+	background-color: #5499C7;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	color:white;
+	border-color: transparent; 
+	border-style: solid;
+	border-radius: 1ex;
+	width: 200px; 
+	height: 42px;
+	font-family: candara;
+	font-size: 20px;
+	text-align: Center;
+	opacity: 0.8;
+}

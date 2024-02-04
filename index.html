@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="shortcut icon" href="Img/log.png">
+    <title>JAMACY</title>
+    <link rel="stylesheet" href="CSS/index.css"/>
+    <div id="espacio">
+        <h1 id="jamacy" >BIBLIOTECA &nbsp;&nbsp;JAMACY</h1>
+    </div>
+</head>
+<body>
+    <form class="insertar" action="usuario.php" method="POST">
+        <input type="usuario" class="escribir" name="usuario" placeholder="Correo electr&oacute;nico o n&uacute;mero de tel&eacute;fono"/>
+        <input type="password" class="escribir" name="contra" placeholder="Contrase&ntilde;a"/>
+        <input type="submit" id="boton" value="Iniciar sesi&oacute;n">
+        <button type="button" id="boton2" onclick="redirectToRegistro()">Registrarse</button>
+    </form>
+
+    <script>
+        function redirectToRegistro() {
+            window.location.href = "registro.html";
+        }
+    </script>
+</body>
+</html>

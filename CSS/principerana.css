@@ -1,0 +1,183 @@
+body
+{
+	background: url("../Img/lo mas visto16.jpg") ;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #FFFFFF;
+	margin: 0%;
+}
+#encabezado
+{
+	position: fixed;
+	height: 80px;
+	width: 100%;
+	background-color: #73C6B6;
+	z-index: 1000000;
+	border-style: solid;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	border-top-width: 0px;
+	border-bottom-width: 0px;
+	opacity: 0.8;
+}
+#logo
+{
+	position: relative;
+	font-family: cambria;
+	font-size: 50px;
+	color: white;
+	margin-left: 120px;
+	margin-top: -65px;
+}
+#ilogo
+{
+	height: 70px;
+	width: 70px;
+	margin-top: 3px;
+	margin-right: 3px;
+	margin-left: 30px;
+}
+#h51
+{
+	position: relative;
+	font-family: cambria;
+	font-size: 20px;
+	color: white;
+	margin-left: 325px;
+	margin-top: -65px;
+}
+#h52
+{
+	position: relative;
+	font-family: cambria;
+	font-size: 20px;
+	color: white;
+	margin-left: 445px;
+	margin-top: -55px;
+}
+#h53
+{
+	position: relative;
+	font-family: cambria;
+	font-size: 20px;
+	color: white;
+	margin-left: 590px;
+	margin-top: -55px;
+}
+#lupa 
+{
+	position: relative;
+	height: 30px;
+	width: 30px;
+	margin-top: -75px;
+	margin-left: 10px;
+}
+#buscar
+{
+	position: relative;
+	background-color: #F0F0F7 ;
+	width: 250px;
+	height: 30px;
+	margin-top: ;
+	margin-left: 900px;
+	border: none;
+	font-family: candara;
+	font-size: 18px;
+	color: black;
+	border-radius: 20px;
+	margin-top: -80px;
+}
+#libro
+{
+	position: absolute;
+	height: 92%;
+	width: 30%;
+	margin-left: 5%;
+	background-color: transparent;
+}
+.tamaño
+{
+	height: 80%;
+	width: 65%;
+	margin-top: 23%;
+	margin-left: 15%;
+}
+.texto1
+{
+	position: absolute;
+	height: 40%;
+	width: 50%;
+	margin-left: 36%;
+	margin-top: 8%;
+	background-color: transparent;
+	text-align: justify;
+}
+#h11
+{
+	position: absolute;
+	font-size: 30px;
+	font-family: candara;
+	color: white;
+	margin-left: 30%;
+}
+#resumen
+{
+	font-size: 20px;
+	font-family: candara;
+	color: white;
+	margin-left: 60px;
+	margin-top: 100px;
+	margin-right: 60px;
+}
+#botones
+{
+	position: absolute;
+	height: 8%;
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 42%;
+	background-color: transparent;
+}
+#boton
+{
+	position: absolute;
+	margin-top: 5px;
+	margin-left: 20%;
+	background-color: #5499C7;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	color:white;
+	border-color: transparent; 
+	border-style: solid;
+	border-radius: 1ex;
+	width: 200px; 
+	height: 42px;
+	font-family: candara;
+	font-size: 20px;
+	text-align: Center;
+	opacity: 0.8;
+}
+#boton1
+{
+	position: absolute;
+	margin-top: 5px;
+	margin-left: 65%;
+	background-color: #5499C7;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	color:white;
+	border-color: transparent; 
+	border-style: solid;
+	border-radius: 1ex;
+	width: 200px; 
+	height: 42px;
+	font-family: candara;
+	font-size: 20px;
+	text-align: Center;
+	opacity: 0.8;
+}
